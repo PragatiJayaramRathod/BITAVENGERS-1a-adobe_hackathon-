@@ -1,4 +1,5 @@
 **Adobe India Hackathon 2025 - Round 1A Solution**
+
 Overview
 This repository contains the solution for Round 1A: Understand Your Document of the Adobe India Hackathon 2025, part of the "Connecting the Dots" challenge. The goal is to extract a structured outline (Title, H1, H2, H3 headings with page numbers) from PDF files and output it as JSON, running in a Docker container on AMD64 architecture without internet access. The solution is designed to be efficient, accurate, and reusable for subsequent rounds.
 Approach
