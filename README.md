@@ -1,4 +1,4 @@
-
+**Adobe India Hackathon 2025 - Round 1A Solution**
 
 **Overview**
 
@@ -84,16 +84,24 @@ BITAVENGERS-1a-adobe_hackathon/
 ├── process_pdfs.py
 
 
-**Dockerfile:** Defines the Docker image for AMD64, installs dependencies, and sets up the execution environment.
+**Dockerfile:** 
+
+Defines the Docker image for AMD64, installs dependencies, and sets up the execution environment.
 
 
-**README.md:** This file, documenting the solution and instructions.
+**README.md:** 
+
+This file, documenting the solution and instructions.
 
 
-**requirements.txt:** Lists dependencies (PyMuPDF==1.23.6).
+**requirements.txt:** 
+
+Lists dependencies (PyMuPDF==1.23.6).
 
 
-**process_pdfs.py:** Main script to process PDFs and generate JSON outlines.
+**process_pdfs.py:** 
+
+Main script to process PDFs and generate JSON outlines.
 
 
 
@@ -104,7 +112,9 @@ Follow these steps to build and run the solution:
 
 **Prerequisites**
 
-**Docker: ** Install Docker Desktop (or Docker CLI for Linux) from docker.com.
+**Docker: ** 
+
+Install Docker Desktop (or Docker CLI for Linux) from docker.com.
 Test PDFs: Place input PDFs (e.g., sample.pdf) in an input directory for testing.
 
 **Build the Docker Image**
