@@ -112,7 +112,7 @@ Follow these steps to build and run the solution:
 
 **Prerequisites**
 
-**Docker: ** 
+**Docker:**
 
 Install Docker Desktop (or Docker CLI for Linux) from docker.com.
 Test PDFs: Place input PDFs (e.g., sample.pdf) in an input directory for testing.
