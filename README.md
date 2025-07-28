@@ -69,7 +69,7 @@ Processes all PDFs in the /app/input directory and saves corresponding JSON file
 **Directory Structure**
 
 
-BITAVENGERS-1a-adobe_hackathon/
+BITAVENGERS-1a-adobe_hackathon-/
 
 
 ├── Dockerfile
@@ -119,7 +119,7 @@ Test PDFs: Place input PDFs (e.g., sample.pdf) in an input directory for testing
 
 **Build the Docker Image**
 
-Navigate to the project directory:cd path/to/BITAVENGERS-1a-adobe_hackathon
+Navigate to the project directory:cd path/to/BITAVENGERS-1a-adobe_hackathon-
 
 
 Build the Docker image:
