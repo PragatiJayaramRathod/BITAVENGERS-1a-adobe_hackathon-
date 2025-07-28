@@ -1,4 +1,4 @@
-<img width="1403" height="1942" alt="image" src="https://github.com/user-attachments/assets/dc860108-51e6-46be-b25a-d5346b52efa1" />**Adobe India Hackathon 2025 - Round 1A Solution**
+
 
 **Overview**
 
